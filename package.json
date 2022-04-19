@@ -1,6 +1,6 @@
 {
-  "name": "@danielbassani/num-pad",
-  "version": "1.0.0",
+  "name": "num-pad-array",
+  "version": "1.0.1",
   "description": "Accepts an array of numbers and pads them with zeros according to the largest number in the array.",
   "main": "index.js",
   "scripts": {
